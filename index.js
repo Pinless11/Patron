@@ -85,7 +85,7 @@ const ryoroyko = ryoroykoConnect({
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Created By 𝙿𝙰𝚃𝚁𝙾𝙽\nYOUTUBE : itzpatron1\nTelegram : https://t.me/textpatron_bot\nInstagram : justt.patron`, {
+say(`Created By 𝙿𝙰𝚃𝚁𝙾𝙽\nYOUTUBE : itzpatron1\nTelegram : https://t.me/textpatron_bot\nInstagram : itsbatrand`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
@@ -235,14 +235,14 @@ ryoroyko.setStatus = (status) => {
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`Created By 𝙿𝙰𝚃𝚁𝙾𝙽\nYOUTUBE : itzpatron1\nTelegram : https://t.me/textpatron_bot\nInstagram : justt.patron`, {
+    say(`Created By 𝙿𝙰𝚃𝚁𝙾𝙽\nYOUTUBE : itzpatron1\nTelegram : https://t.me/textpatron_bot\nInstagram : pinless`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`2348133729715@s.whatsapp.net`, { text: `*[🚹] •𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 CONNECTED✅*`})
+ryoroyko.sendMessage(`254746891290@s.whatsapp.net`, { text: `*[🚹] •𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 CONNECTED✅*`})
             }
 
         } catch (err) {
