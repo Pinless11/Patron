@@ -31,7 +31,7 @@ global.connect = true; // Set to false if using QR Code
 global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
 global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
 global.packname = 'PATRON 🚹'; // Change if needed
-global.url = 'https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q'; // Do not change
+global.url = 
 
 //===========================//
 
@@ -46,9 +46,9 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 //===========================//
 
-global.country = '234';
+global.country = '254';
 global.system = {
-  gmail: 'winneraileme6@gmail.com',
+  gmail: 'maisbatand@gmail.com',
 };
 
 //===========================//
